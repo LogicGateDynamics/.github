@@ -1,6 +1,7 @@
 # LOGIC GATE DYNAMICS 
 <div align="center">
-  ![LOGO](https://github.com/LogicGateDynamics/LogicGateDynamicsAssets/blob/main/LOGIC_GATE_DYNAMICS_LOGO.png)
+![LOGO](https://github.com/LogicGateDynamics/LogicGateDynamicsAssets/blob/main/LOGIC_GATE_DYNAMICS_LOGO.png)
+  
 - Empresa fictícia para a atividade avaliativa 3 da matéria de Gestão em Tecnologia da Informação 2023.2 na [Universidade Salvador](https://www.linkedin.com/school/universidade-salvador/mycompany/);
   
 ## "ORquestrando resultados AND abrindo as portas da inovação" 
